@@ -1,0 +1,2 @@
+NAME              IMAGE            COMMAND                  SERVICE    CREATED          STATUS         PORTS
+ctrl-receiver-1   node:22-alpine   "docker-entrypoint.s…"   receiver   15 minutes ago   Up 5 minutes   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp
